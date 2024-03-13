@@ -11,7 +11,7 @@ WORKDIR /docs
 
 # Clone your GitHub repository
 # Replace the URL with your repository URL
-RUN git clone https://github.com/pritamfocal/document.git .
+RUN git clone https://github.com/72Anju/document.git .
 
 # Copy the startup script into the container and make it executable
 COPY entrypoint.sh /entrypoint.sh
