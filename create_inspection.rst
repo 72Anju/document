@@ -30,7 +30,6 @@ Request
 
 - **Content-Type**: 
     - *Type*: multipart/form-data
-    - *Required*: Mandatory
     - *Description*: The request should be of form data type.
 
 **Input Parameters**:

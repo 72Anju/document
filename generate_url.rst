@@ -30,7 +30,7 @@ Request
 
 - **images**: 
     - *Type*: List of Image Objects
-    - *Description*: List of images to generate URLs for.
+    - *Description*: List of all images to generate URLs for.
 
 **Image Object Details**:
 
