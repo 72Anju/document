@@ -26,7 +26,7 @@ Request
     - *Type*: Bearer Token
     - *Required*: Mandatory
     - *Types*: Description
-    - *Description*: Client must send the token received from the previous API.
+    - *Description*: anju
 
 - **Content-Type**: 
     - *Type*: multipart/form-data
